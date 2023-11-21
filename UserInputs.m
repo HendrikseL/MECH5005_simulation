@@ -25,10 +25,9 @@ userInputs.dParams.Aref = 0.08319; %m^2
 userInputs.dParams.maxT = 1.174; %N
 
 %Control Commands timeseries creation
-userInputs.commands = load('badWaypoints.mat');
+userInputs.commands = load('waypoints.mat');
 
 
 %visualization
 userInputs.Visualization = struct;
 userInputs.Visualization.animation = 0;
-userInputs.Visualization.presentation = 0;
