@@ -13,7 +13,7 @@
     - UAV Toolbox
 
 
-##Architecture
+## Architecture
     -To run the simulation open main. the user inputs will be automatically loaded, from there controls can be made.
     -default waypoints correspond to the raster scan pattern for the project, however any waypoints can be used.
     -designate first way point as GCS location
